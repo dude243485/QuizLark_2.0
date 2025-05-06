@@ -92,6 +92,45 @@ class CategoryFrame(ctk.CTkFrame):
                 
             else:
                 self.controller.show_play_frame(self.playerId, title)
+                
+        elif title == "sports":
+            if auth.get_actual_progress(self.playerId,title) >= 100:
+                print("level completed")
+                #show error message
+                reply = show_error_msg()
+                if reply == "YES":
+                    auth.reset_progress(self.playerId, title)
+                    self.controller.show_play_frame(self.playerId, title)
+                  
+                
+            else:
+                self.controller.show_play_frame(self.playerId, title)
+        
+        elif title == "movie":
+            if auth.get_actual_progress(self.playerId,title) >= 100:
+                print("level completed")
+                #show error message
+                reply = show_error_msg()
+                if reply == "YES":
+                    auth.reset_progress(self.playerId, title)
+                    self.controller.show_play_frame(self.playerId, title)
+                  
+                
+            else:
+                self.controller.show_play_frame(self.playerId, title)
+                
+        elif title == "arts":
+            if auth.get_actual_progress(self.playerId,title) >= 100:
+                print("level completed")
+                #show error message
+                reply = show_error_msg()
+                if reply == "YES":
+                    auth.reset_progress(self.playerId, title)
+                    self.controller.show_play_frame(self.playerId, title)
+                  
+                
+            else:
+                self.controller.show_play_frame(self.playerId, title)
             
                 
 
