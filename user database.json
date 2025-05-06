@@ -1,0 +1,220 @@
+[
+    {
+        "name": "Ude Daniel",
+        "username": "danielUde",
+        "password": "password",
+        "id": 1,
+        "xp": 4400,
+        "money": 60,
+        "save me": 25,
+        "instant": 14,
+        "eliminate": 13,
+        "hint": 10,
+        "stats": {
+            "questions attempted": 74,
+            "correct": 67,
+            "wrong": 8,
+            "games played": 6,
+            "games won": 11,
+            "question attempted": 0
+        },
+        "categories progress": {
+            "general": 66.67,
+            "sports": 0,
+            "movie": 0,
+            "arts": 0,
+            "tech": 0,
+            "history_": 0,
+            "medicine": 0,
+            "science": 0,
+            "bible": 0,
+            "politics": 0
+        }
+    },
+    {
+        "name": "Scarlett Johanson",
+        "username": "ScaJo",
+        "password": "Johanson",
+        "id": 2,
+        "xp": 1200,
+        "money": 6850,
+        "save me": 10,
+        "instant": 10,
+        "eliminate": 13,
+        "hint": 10,
+        "stats": {
+            "questions attempted": 0,
+            "correct": 0,
+            "wrong": 0,
+            "games played": 0,
+            "games won": 0
+        },
+        "categories progress": {
+            "general": 0,
+            "sports": 0,
+            "movie": 0,
+            "arts": 0,
+            "tech": 0,
+            "history_": 0,
+            "medicine": 0,
+            "science": 0,
+            "bible": 0,
+            "politics": 0
+        }
+    },
+    {
+        "name": "Jane Doe",
+        "username": "janedoe",
+        "password": "Jane123@",
+        "id": 3,
+        "xp": 800,
+        "money": 7500,
+        "save me": 10,
+        "instant": 10,
+        "eliminate": 10,
+        "hint": 10,
+        "stats": {
+            "questions attempted": 0,
+            "correct": 0,
+            "wrong": 0,
+            "games played": 0,
+            "games won": 0
+        },
+        "categories progress": {
+            "general": 0,
+            "sports": 0,
+            "movie": 0,
+            "arts": 0,
+            "tech": 0,
+            "history_": 0,
+            "medicine": 0,
+            "science": 0,
+            "bible": 0,
+            "politics": 0
+        }
+    },
+    {
+        "name": "Daniel Ude",
+        "username": "DNI",
+        "password": "Openseasame123@",
+        "id": 4,
+        "xp": 100,
+        "money": 1000,
+        "save me": 10,
+        "instant": 10,
+        "eliminate": 10,
+        "hint": 10,
+        "stats": {
+            "questions attempted": 0,
+            "correct": 0,
+            "wrong": 0,
+            "games played": 0,
+            "games won": 0
+        },
+        "categories progress": {
+            "general": 0,
+            "sports": 0,
+            "movie": 0,
+            "arts": 0,
+            "tech": 0,
+            "history_": 0,
+            "medicine": 0,
+            "science": 0,
+            "bible": 0,
+            "politics": 0
+        }
+    },
+    {
+        "name": "Miyamizu Mitsuha",
+        "username": "mitsuha_123",
+        "password": "Mitsuha123@",
+        "id": 5,
+        "xp": 100,
+        "money": 1000,
+        "save me": 10,
+        "instant": 10,
+        "eliminate": 10,
+        "hint": 10,
+        "stats": {
+            "questions attempted": 0,
+            "correct": 0,
+            "wrong": 0,
+            "games played": 0,
+            "games won": 0
+        },
+        "categories progress": {
+            "general": 0,
+            "sports": 0,
+            "movie": 0,
+            "arts": 0,
+            "tech": 0,
+            "history_": 0,
+            "medicine": 0,
+            "science": 0,
+            "bible": 0,
+            "politics": 0
+        }
+    },
+    {
+        "name": "Cisco Ramoan",
+        "username": "Ramoan_Monster",
+        "password": "BigDaddy420@",
+        "id": 7,
+        "xp": 0,
+        "money": 1550,
+        "save me": 9,
+        "instant": 12,
+        "eliminate": 13,
+        "hint": 11,
+        "stats": {
+            "questions attempted": 0,
+            "correct": 0,
+            "wrong": 0,
+            "games played": 0,
+            "games won": 0
+        },
+        "categories progress": {
+            "general": 0,
+            "sports": 0,
+            "movie": 0,
+            "arts": 0,
+            "tech": 0,
+            "history_": 0,
+            "medicine": 0,
+            "science": 0,
+            "bible": 0,
+            "politics": 0
+        }
+    },
+    {
+        "name": "Lan Maldrogan",
+        "username": "kingOfMalkier",
+        "password": "BelovedMoiraine@123",
+        "id": 7,
+        "xp": 0,
+        "money": 1550,
+        "save me": 9,
+        "instant": 12,
+        "eliminate": 13,
+        "hint": 11,
+        "stats": {
+            "questions attempted": 0,
+            "correct": 0,
+            "wrong": 0,
+            "games played": 0,
+            "games won": 0
+        },
+        "categories progress": {
+            "general": 0,
+            "sports": 0,
+            "movie": 0,
+            "arts": 0,
+            "tech": 0,
+            "history_": 0,
+            "medicine": 0,
+            "science": 0,
+            "bible": 0,
+            "politics": 0
+        }
+    }
+]

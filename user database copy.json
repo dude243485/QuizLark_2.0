@@ -1,0 +1,63 @@
+[
+    {
+        "name": "Ude Daniel",
+        "username": "danielUde",
+        "password": "password",
+        "id": 1,
+        "xp": 200,
+        "money" : 2000,
+        "save me" : 10,
+        "instant": 10,
+        "eliminate" : 10,
+        "hint" : 10
+    },
+    {
+        "name": "Scarlett Johanson",
+        "username": "ScaJo",
+        "password": "Johanson",
+        "id": 2,
+        "xp": 1200,
+        "money" : 7000,
+        "save me" : 10,
+        "instant": 10,
+        "eliminate" : 10,
+        "hint" : 10
+    },
+    {
+        "name": "Jane Doe",
+        "username": "janedoe",
+        "password": "Jane123@",
+        "id": 3,
+        "xp": 800,
+        "money" : 7500,
+        "save me" : 10,
+        "instant": 10,
+        "eliminate" : 10,
+        "hint" : 10
+    },
+    {
+        "name": "Daniel Ude",
+        "username": "DNI",
+        "password": "Openseasame123@",
+        "id": 4,
+        "xp": 100,
+        "money" : 1000,
+        "save me" : 10,
+        "instant": 10,
+        "eliminate" : 10,
+        "hint" : 10
+    },
+    {
+        "name": "Miyamizu Mitsuha",
+        "username": "mitsuha_123",
+        "password": "Mitsuha123@",
+        "id": 5,
+        "xp": 100,
+        "money" : 1000,
+        "save me" : 10,
+        "instant": 10,
+        "eliminate" : 10,
+        "hint" : 10
+        
+    }
+]
